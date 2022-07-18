@@ -3,3 +3,8 @@
 ################################################################################
 
 /MongoRestaurant/.vs
+/MongoRestaurant/Mongo.Web/bin/Debug/net6.0
+/MongoRestaurant/Mongo.Web/obj
+/MongoRestaurant/Mongo.Services.ProductAPI/obj
+/MongoRestaurant/Mongo.Services.ProductAPI/bin/Debug/net6.0
+/MongoRestaurant/Mongo.Services.ProductAPI/Properties
