@@ -11,7 +11,7 @@ namespace Mongo.Services.ProductAPI.Models
         public string Name { get; set; }
 
         [Range(1,100)]
-        public string Price { get; set; } 
+        public double Price { get; set; } 
 
         public string Description { get; set; }
 
